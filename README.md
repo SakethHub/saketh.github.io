@@ -2,7 +2,7 @@ Restaurant Website
 
 This is a responsive restaurant website built using HTML, CSS, Bootstrap, and Flexbox.
 
-🔗 Live Demo: https://saketh.github.io  
+🔗 Live Demo: https://sakethhub.github.io  
 🎨 Features: Responsive layout, modern design, Bootstrap grid, Flexbox menus.
 
 📁 **Tools Used**:
