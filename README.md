@@ -1,2 +1,16 @@
-# saketh.github.io
-🔧 MERN Stack Developer | Fresher with hands-on experience in building full-stack apps using React, Node.js, Express &amp; MongoDB. Passionate about learning, writing clean code, and turning ideas into real projects. Always open to collaboration and feedback.
+Restaurant Website
+
+This is a responsive restaurant website built using HTML, CSS, Bootstrap, and Flexbox.
+
+🔗 Live Demo: https://saketh.github.io  
+🎨 Features: Responsive layout, modern design, Bootstrap grid, Flexbox menus.
+
+📁 **Tools Used**:
+- HTML5
+- CSS3
+- Bootstrap 5
+- Flexbox
+
+📬 Contact:
+- Email: naidusaketh1@gmail.com
+- GitHub: https://github.com/SakethHub
